@@ -50,8 +50,8 @@ def detect_labels(photo, bucket):
     return len(response['Labels'])
 
 def main():
-    photo = 'image_file_name'
-    bucket = 'bucket_name'
+    photo = 'image-example.jpg'
+    bucket = 'lmage-labeler-bucket'
     label_count = detect_labels(photo, bucket)
     print("Labels detected:", label_count)
 
