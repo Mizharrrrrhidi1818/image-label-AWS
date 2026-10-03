@@ -3,7 +3,8 @@ In this project, we will provide image labels where we employ Amazon Rekognition
 
 Automatically recognize and label images with **Amazon Rekognition**, using **Amazon S3** for image storage and the **AWS CLI** for authentication.
 
-![Pipeline](docs/image_labeler_pipeline.jpg)
+<img width="1890" height="1069" alt="image_labeler_pipeline" src="https://github.com/user-attachments/assets/5cbf2225-601a-4bfb-9891-9d471398f696" />
+
 
 ## Services Used
 
