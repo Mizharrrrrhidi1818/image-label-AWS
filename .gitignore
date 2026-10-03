@@ -1,0 +1,32 @@
+# --- Secrets (NEVER commit these) ---
+.env
+*.pem
+*.key
+credentials
+credentials.csv
+*_accessKeys.csv
+.aws/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+.pytest_cache/
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Local test images (keep only docs/ images) ---
+*.jpg
+*.jpeg
+*.png
+!docs/*.jpg
+!docs/*.png
