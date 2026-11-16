@@ -1,4 +1,15 @@
 # Implementation labelling image using Amazon rekognition AWS
+
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Amazon Rekognition](https://img.shields.io/badge/Amazon_Rekognition-Computer_Vision-FF9900?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/rekognition/)
+[![Amazon S3](https://img.shields.io/badge/Amazon_S3-Storage-569A31?logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
+[![Boto3](https://img.shields.io/badge/Boto3-AWS_SDK-FF9900?logo=python&logoColor=white)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=python&logoColor=white)](https://matplotlib.org/)
+[![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-blue)](https://pillow.readthedocs.io/)
+[![AWS CLI](https://img.shields.io/badge/AWS_CLI-Command_Line-232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/cli/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 In this project, we will provide image labels where we employ Amazon Rekognition. It will be able to recognize and label images. Amazon Recognition able to identify what it is and label the image.
 
 Automatically recognize and label images with **Amazon Rekognition**, using **Amazon S3** for image storage and the **AWS CLI** for authentication.
